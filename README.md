@@ -1,7 +1,7 @@
 # 05-Third-Party-APIs-Work-Day-Scheduler
  
 ## Link to deployed application
-
+https://simiaun.github.io/Third-Party-APIs-Challenge-Work-Day-Scheduler/
 
 ## Usage 
 
